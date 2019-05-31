@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using myElectronApp.Models;
+using FileUpLoad.Models;
 
-namespace myElectronApp.Controllers
+namespace FileUpLoad.Controllers
 {
     public class HomeController : Controller
     {
